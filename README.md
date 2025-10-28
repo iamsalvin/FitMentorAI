@@ -1,4 +1,5 @@
-#FitMentor – AI-Powered Fitness & Diet Assistant
+﻿# FitMentorAi
+FitMentor – AI-Powered Fitness & Diet Assistant
 
 Problem Statement / Objective:
 Many people face difficulties in designing fitness routines and meal plans that are tailored to their individual goals, physical limitations, or health conditions. Traditional fitness coaching and diet planning are often expensive, generic, and non-interactive. There's a need for an accessible, intelligent system that can personalize workouts and diets in real-time using user preferences and health data.
